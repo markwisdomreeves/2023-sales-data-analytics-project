@@ -1,4 +1,4 @@
-Final Supermarket Sales - Data Analytics Project
+Supermarket Sales - Data Analytics Project
 
 Objective: In this project, I performed data analysis on an open dataset that provides an in-depth look at the ordering, billing, and sales processes in a supermarket. 
 Some of the tasks include:
