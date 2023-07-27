@@ -2,10 +2,10 @@ Final Supermarket Sales - Data Analytics Project
 
 Objective: In this project, I performed data analysis on an open dataset that provides an in-depth look at the ordering, billing, and sales processes in a supermarket. 
 Some of the tasks include:
-### Data cleansing, 
-### Data transformation, 
-### Exploratory Data Analysis (EDA)
-### Data virtualization.
+Data cleansing, 
+Data transformation, 
+Exploratory Data Analysis (EDA)
+Data virtualization.
 
 With information ranging from customers' meal choices to the value of their orders and whether they were converted into sales, this dataset opens up endless possibilities to uncover consumer behavior trends and engagement within the business.
 
